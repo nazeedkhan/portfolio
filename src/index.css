@@ -1,0 +1,34 @@
+@import "tailwindcss";
+@custom-variant dark (&:where(.dark, .dark *));
+
+body {
+  font-family: "Inter", sans-serif;
+}
+
+.dark {
+  color-scheme: dark;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+.about-points {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+}
+
+.about-points li {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin: 18px 0;
+  font-size: 18px;
+}
+
+.about-points i {
+  width: 25px;
+  font-size: 22px;
+  color: #3b82f6;
+}
