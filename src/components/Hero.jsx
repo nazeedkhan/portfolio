@@ -1,6 +1,6 @@
 import React from "react";
 import nazeed_image from "../assets/nazeed_image.png";
-import CV from "../assets/resume/Nazeed_Khan_Resume.pdf";
+import CV from "../assets/resume/Nazeed_Khan_CV.pdf";
 import { DownloadIcon, Mail } from "lucide-react";
 import rirekisho from '../assets/resume/Nazeed_khan_rirekisho.pdf'
 

@@ -65,7 +65,7 @@ const myCertificates = [
     title: "Software Engineer Experience Certificate",
     issuer: "Wincode India Pvt. Ltd.",
     date: "2026",
-    url: "https://drive.google.com/file/d/1obRARqudhdRGDAaaDK15K4NGf0NjflJk/view?usp=sharing",
+    url: "https://drive.google.com/file/d/19T_w2Ts1xH_yFHngPMxqaP0lGO_ll2Zc/view?usp=sharing",
   },
   {
     id: 8,
